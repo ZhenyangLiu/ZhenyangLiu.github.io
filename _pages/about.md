@@ -46,3 +46,4 @@ I am passionate about developing AI systems that integrate perception, reasoning
 
 # 💻 Internships
 - *2025.03 - *, China.
+- *2021.04 - 2024.06, Media Intelligence Laboratory, Hangzhou, China
