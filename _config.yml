@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhenyang Liu"
-description              : "I am a Ph.D. student at Fudan University and the Shanghai Innovation Institute, advised by Prof. Xiangyang Xue, Prof. Yanwei Fu, and Prof. Binxing Fang."
+description              : Ph.D. student at Fudan University and the Shanghai Innovation Institute, advised by Prof. Xiangyang Xue, Prof. Yanwei Fu, and Prof. Binxing Fang.
 repository               : "ZhenyangLiu/zhenyangliu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,10 +25,10 @@ author:
   avatar           : "images/lzy.jpg"
   bio              : "Fudan University,Shanghai Innovation Institute"
   location         : "Shanghai, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : ""
-  email            : "lzyzjhz@163.com"
+  employer         : 
+  pubmed           :  
+  googlescholar    : 
+  email            : "@lzyzjhz@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "ZhenyangLiu"
   google_plus      :
   keybase          :
   instagram        :
