@@ -41,5 +41,5 @@ ReasonGrounder is a novel LVLM-guided framework that uses hierarchical 3D featur
 </div>
 
 # 💻 Internships
-- *2025.03 - *, China.
-- *2021.04 - 2024.06, Media Intelligence Laboratory, Hangzhou, China
+- *2025.03 - 2025.9*, China.
+- *2021.04 - 2024.06*, Media Intelligence Laboratory, Hangzhou, China
