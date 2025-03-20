@@ -22,7 +22,7 @@ I am passionate about developing AI systems that integrate perception, reasoning
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 Our works on 3D visual grounding and Reasoning have been accepted by CVPR 2025. Big thank you to my co-authors!
+- *2025.02*: &nbsp;🎉🎉 Our works on 3D Visual Grounding and Reasoning have been accepted by CVPR 2025. Big thank you to my co-authors!
 
 # 📝 Publications 
 
@@ -35,7 +35,7 @@ I am passionate about developing AI systems that integrate perception, reasoning
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-ReasonGrounder is a novel LVLM-guided framework that uses hierarchical 3D feature Gaussian fields for adaptive grouping based on physical scale, enabling open-vocabulary 3D grounding and reasoning
+ReasonGrounder is a novel LVLM-guided framework that uses hierarchical 3D feature Gaussian fields for adaptive grouping based on physical scale, enabling open-vocabulary 3D grounding and reasoning.
 
 </div>
 </div>
