@@ -17,12 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 1th year PhD student at Fudan University and the Shanghai Innovation Institute, advised by Prof. Xiangyang Xue and Prof. Yanwei Fu. My research focuses on Embodied AI, Spatial Intelligence, and Vision-Language-Action Models. I am passionate about developing AI systems that integrate perception, reasoning, and action in complex environments. My work primarily involves 3D multi-modal reconstruction and how it can enable robotic manipulation. Feel free to connect with me via email: lzyzjhz@163.com.
+I am a 1th year PhD student at Fudan University and the Shanghai Innovation Institute, advised by Prof. Xiangyang Xue and Prof. Yanwei Fu, and Prof. Binxing Fang. My research focuses on Embodied AI, Spatial Intelligence, and Vision-Language-Action Models. 
+I am passionate about developing AI systems that integrate perception, reasoning, and action in complex environments. My work primarily involves 3D multi-modal reconstruction and how it can enable robotic manipulation. Feel free to connect with me via email: lzyzjhz@163.com.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02*: &nbsp;🎉🎉 Our works on 3D visual grounding and Reasoning have been accepted by CVPR 2025. Big thank you to my co-authors!
+
+
 
 # 📝 Publications 
 
