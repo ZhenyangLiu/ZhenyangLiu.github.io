@@ -25,7 +25,6 @@ I am passionate about developing AI systems that integrate perception, reasoning
 - *2025.02*: &nbsp;🎉🎉 Our works on 3D Visual Grounding and Reasoning have been accepted by CVPR 2025. Big thank you to my co-authors!
 
 # 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ReasonGrounder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
