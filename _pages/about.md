@@ -35,7 +35,7 @@ I am passionate about developing AI systems that integrate perception, reasoning
 
 [**Project**](https://zhenyangliu.github.io/ReasonGrounder/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-ReasonGrounder is a novel LVLM-guided framework that uses hierarchical 3D feature Gaussian fields for adaptive grouping based on physical scale, enabling open-vocabulary 3D grounding and reasoning.
+ReasonGrounder is a novel LVLM-guided framework that uses hierarchical 3D feature Gaussian fields for adaptive grouping based on physical scale, enabling open-vocabulary 3D grounding and reasoning.
 
 </div>
 </div>
