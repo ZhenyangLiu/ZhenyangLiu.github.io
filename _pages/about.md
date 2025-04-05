@@ -29,7 +29,7 @@ I am passionate about developing AI systems that integrate perception, reasoning
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ReasonGrounder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning]()
+[ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning](https://arxiv.org/abs/2503.23297)
 
 **Zhenyang Liu**, Yikai Wang, Sixiao Zheng, Tongying Pan, Longfei Liang, Yanwei Fu, Xiangyang Xue, **CVPR 2025**
 
