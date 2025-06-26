@@ -45,7 +45,7 @@ ReasonGrounder is a novel LVLM-guided framework that uses hierarchical 3D featur
 
 [Spatial-Temporal Aware Visuomotor Diffusion Policy Learning]()
 
-**Zhenyang Liu**, Yikai Wang, Sixiao Zheng, Tongying Pan, Longfei Liang, Yanwei Fu, Xiangyang Xue, **ICCV 2025**
+**Zhenyang Liu**, Yikai Wang, Kuanning Wang, Longfei Liang, Xiangyang Xue, Yanwei Fu, **ICCV 2025**
 
 [**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
