@@ -55,7 +55,6 @@ In this work, we propose 4D Diffusion Policy (DP4), a novel visual imitation lea
 </div>
 
 </div>
-</div>
 
 # 💻 Internships
 - *2025.04 - 2025.10*, Shanghai AI Laboratory, Shanghai, China
