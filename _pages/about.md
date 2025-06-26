@@ -23,6 +23,7 @@ I am passionate about developing AI systems that integrate perception, reasoning
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 Our works on Visual Policy Learning have been accepted by ICCV 2025. Big thank you to my co-authors!
 - *2025.04*: Attending China3DV at Beijing, China.
 - *2025.02*: &nbsp;🎉🎉 Our works on 3D Visual Grounding and Reasoning have been accepted by CVPR 2025. Big thank you to my co-authors!
 
