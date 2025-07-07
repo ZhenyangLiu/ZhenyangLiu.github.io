@@ -52,6 +52,7 @@ ReasonGrounder is a novel LVLM-guided framework that uses hierarchical 3D featur
 
 In this work, we propose 4D Diffusion Policy (DP4), a novel visual imitation learning method that incorporates spatiotemporal awareness into diffusion-based policies. Unlike traditional approaches that rely on trajectory cloning, DP4 leverages a dynamic Gaussian world model to guide the learning of 3D spatial and 4D spatiotemporal perceptions from interactive environments.
 
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/SpatialReasoner.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
