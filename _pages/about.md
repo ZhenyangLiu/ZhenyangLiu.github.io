@@ -23,6 +23,7 @@ I am passionate about developing AI systems that integrate perception, reasoning
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 Our works on 3D Spatial Reason Grounding have been accepted by ACMMM 2025. Big thank you to my co-authors!
 - *2025.06*: &nbsp;🎉🎉 Our works on Visual Policy Learning have been accepted by ICCV 2025. Big thank you to my co-authors!
 - *2025.04*: Attending China3DV at Beijing, China.
 - *2025.02*: &nbsp;🎉🎉 Our works on 3D Visual Grounding and Reasoning have been accepted by CVPR 2025. Big thank you to my co-authors!
@@ -52,6 +53,19 @@ ReasonGrounder is a novel LVLM-guided framework that uses hierarchical 3D featur
 In this work, we propose 4D Diffusion Policy (DP4), a novel visual imitation learning method that incorporates spatiotemporal awareness into diffusion-based policies. Unlike traditional approaches that rely on trajectory cloning, DP4 leverages a dynamic Gaussian world model to guide the learning of 3D spatial and 4D spatiotemporal perceptions from interactive environments.
 
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/SpatialReasoner.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding]()
+
+**Zhenyang Liu**, Sixiao Zheng, Siyu Chen, Cairong Zhao, Longfei Liang, Xiangyang Xue, Yanwei Fu,  **ACMMM 2025**
+
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+In this work, we propose SpatialReasoner, a novel neural representation-based framework with large language model (LLM)-driven spatial reasoning that constructs a visual properties-enhanced hierarchical feature field for open-vocabulary 3D visual grounding.
+
+</div>
+
 </div>
 
 </div>
