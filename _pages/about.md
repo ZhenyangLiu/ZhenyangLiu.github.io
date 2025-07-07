@@ -68,7 +68,7 @@ In this work, we propose SpatialReasoner, a novel neural representation-based fr
 </div>
 
 </div>
-
+</div>
 
 # 💻 Internships
 - *2025.04 - 2025.10*, Shanghai AI Laboratory, Shanghai, China
