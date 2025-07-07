@@ -32,18 +32,18 @@ I am passionate about developing AI systems that integrate perception, reasoning
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">CVPR 2025</div><img src='images/ReasonGrounder.png' alt="sym" width="100%">
+      <div class="badge">ACMMM 2025</div><img src='images/SpatialReasoner.png' alt="sym" width="100%">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
-    
-  [ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning](https://arxiv.org/abs/2503.23297)
-    
-  **Zhenyang Liu**, Yikai Wang, Sixiao Zheng, Tongying Pan, Longfei Liang, Yanwei Fu, Xiangyang Xue, **CVPR 2025**
+<div class='paper-box-text' markdown="1">
 
-  [**Project**](https://zhenyangliu.github.io/ReasonGrounder/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding]()
 
-  ReasonGrounder is a novel LVLM-guided framework that uses hierarchical 3D feature Gaussian fields for adaptive grouping based on physical scale, enabling open-vocabulary 3D grounding and reasoning.
+**Zhenyang Liu**, Sixiao Zheng, Siyu Chen, Cairong Zhao, Longfei Liang, Xiangyang Xue, Yanwei Fu,  **ACMMM 2025**
+
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+In this work, we propose SpatialReasoner, a novel neural representation-based framework with large language model (LLM)-driven spatial reasoning that constructs a visual properties-enhanced hierarchical feature field for open-vocabulary 3D visual grounding.
   </div>
 </div>
 
@@ -68,20 +68,22 @@ In this work, we propose 4D Diffusion Policy (DP4), a novel visual imitation lea
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ACMMM 2025</div><img src='images/SpatialReasoner.png' alt="sym" width="100%">
+      <div class="badge">CVPR 2025</div><img src='images/ReasonGrounder.png' alt="sym" width="100%">
     </div>
   </div>
-<div class='paper-box-text' markdown="1">
+  <div class='paper-box-text' markdown="1">
+    
+  [ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning](https://arxiv.org/abs/2503.23297)
+    
+  **Zhenyang Liu**, Yikai Wang, Sixiao Zheng, Tongying Pan, Longfei Liang, Yanwei Fu, Xiangyang Xue, **CVPR 2025**
 
-[A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding]()
+  [**Project**](https://zhenyangliu.github.io/ReasonGrounder/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-**Zhenyang Liu**, Sixiao Zheng, Siyu Chen, Cairong Zhao, Longfei Liang, Xiangyang Xue, Yanwei Fu,  **ACMMM 2025**
-
-[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-In this work, we propose SpatialReasoner, a novel neural representation-based framework with large language model (LLM)-driven spatial reasoning that constructs a visual properties-enhanced hierarchical feature field for open-vocabulary 3D visual grounding.
+  ReasonGrounder is a novel LVLM-guided framework that uses hierarchical 3D feature Gaussian fields for adaptive grouping based on physical scale, enabling open-vocabulary 3D grounding and reasoning.
   </div>
 </div>
+
+
 
 # 💻 Internships
 - *2025.04 - 2025.10*, Shanghai AI Laboratory, Shanghai, China
