@@ -68,7 +68,6 @@ In this work, we propose SpatialReasoner, a novel neural representation-based fr
 </div>
 
 </div>
-</div>
 
 
 # 💻 Internships
