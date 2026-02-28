@@ -23,12 +23,32 @@ I am passionate about developing AI systems that integrate perception, reasoning
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 Our works on VLA and Active Perception have been accepted by CVPR 2026. Big thank you to my co-authors!
 - *2025.07*: &nbsp;🎉🎉 Our works on 3D Spatial Reasoning and Grounding have been accepted by ACMMM 2025. Big thank you to my co-authors!
 - *2025.06*: &nbsp;🎉🎉 Our works on Visual Policy Learning have been accepted by ICCV 2025. Big thank you to my co-authors!
 - *2025.04*: Attending China3DV at Beijing, China.
 - *2025.02*: &nbsp;🎉🎉 Our works on 3D Visual Grounding and Reasoning have been accepted by CVPR 2025. Big thank you to my co-authors!
 
 # 📝 Publications 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CVPR 2026</div><img src='images/ActiveVLA.png' alt="sym" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+[ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation]()
+
+**Zhenyang Liu**, Yongchong Gu, Yikai Wang, Xiangyang Xue, Yanwei Fu,  **CVPR 2026**
+
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+In this work, we propose SpatialReasoner, a novel neural representation-based framework with large language model (LLM)-driven spatial reasoning that constructs a visual properties-enhanced hierarchical feature field for open-vocabulary 3D visual grounding.
+  </div>
+</div>
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
