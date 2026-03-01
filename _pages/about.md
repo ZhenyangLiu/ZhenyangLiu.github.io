@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🤵🏻 About me
-I am a 1th year PhD student at Fudan University and Shanghai Innovation Institute, advised by Prof. Xiangyang Xue, Prof. Yanwei Fu, and Prof. Binxing Fang. My research focuses on Embodied AI, Spatial Intelligence, and Vision-Language-Action Models. 
+I am a 2nd year PhD student at Fudan University and Shanghai Innovation Institute, advised by Prof. Xiangyang Xue, Prof. Yanwei Fu, and Prof. Binxing Fang. My research focuses on Embodied AI, Spatial Intelligence, and Vision-Language-Action Models. 
 
 I am passionate about developing AI systems that integrate perception, reasoning, and action in complex environments. My work primarily involves 3D multi-modal reconstruction and how it can enable robotic manipulation. Feel free to connect with me via email: lzyzjhz@163.com.
 
@@ -44,8 +44,8 @@ I am passionate about developing AI systems that integrate perception, reasoning
 
 [**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-In this work, we propose SpatialReasoner, a novel neural representation-based framework with large language model (LLM)-driven spatial reasoning that constructs a visual properties-enhanced hierarchical feature field for open-vocabulary 3D visual grounding.
-  </div>
+In this work, we propose ActiveVLA, a novel vision-language-action framework with a coarse-to-fine active perception paradigm that dynamically optimizes viewpoints and 3D resolutions for high-precision fine-grained robot manipulation.
+</div>
 </div>
 
 
