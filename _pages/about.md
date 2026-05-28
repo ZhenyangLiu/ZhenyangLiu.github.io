@@ -23,12 +23,12 @@ I am passionate about developing AI systems that integrate perception, reasoning
 
 
 # 🔥 News
-- *2026.04*: &nbsp;🚀🚀 As a Core Contributor, we officially released and open-sourced **HY-World 2.0**！**A huge thank you to the amazing team at Tencent Hunyuan and all our collaborative partners for making this milestone possible!** 🙌
-- *2025.07*: &nbsp;🎉🎉 Our works on VLA and Active Perception have been accepted by CVPR 2026. Big thank you to my co-authors!
-- *2025.07*: &nbsp;🎉🎉 Our works on 3D Spatial Reasoning and Grounding have been accepted by ACMMM 2025. Big thank you to my co-authors!
-- *2025.06*: &nbsp;🎉🎉 Our works on Visual Policy Learning have been accepted by ICCV 2025. Big thank you to my co-authors!
+- *2026.04*: &nbsp;🚀🚀 As a Core Contributor, we officially released and open-sourced **HY-World 2.0**！A huge thank you to the amazing team at Tencent Hunyuan and all our collaborative partners for making this milestone possible! 🙌
+- *2025.07*: &nbsp;🎉🎉 Our works on **VLA and Active Perception** have been accepted by CVPR 2026. Big thank you to my co-authors!
+- *2025.07*: &nbsp;🎉🎉 Our works on **3D Spatial Reasoning and Grounding** have been accepted by ACMMM 2025. Big thank you to my co-authors!
+- *2025.06*: &nbsp;🎉🎉 Our works on **Visual Policy Learning** have been accepted by ICCV 2025. Big thank you to my co-authors!
 - *2025.04*: Attending China3DV at Beijing, China.
-- *2025.02*: &nbsp;🎉🎉 Our works on 3D Visual Grounding and Reasoning have been accepted by CVPR 2025. Big thank you to my co-authors!
+- *2025.02*: &nbsp;🎉🎉 Our works on **3D Visual Grounding and Reasoning** have been accepted by CVPR 2025. Big thank you to my co-authors!
 
 # 📝 Publications 
 <div class='paper-box'>
@@ -41,7 +41,7 @@ I am passionate about developing AI systems that integrate perception, reasoning
 
 [HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds](https://3d-models.hunyuan.tencent.com/world/world2_0/HY_World_2_0.pdf)
 
-**Tencent Hunyuan Team** (Core Contributor: **Zhenyang Liu**), **Technical Report 2026**
+Tencent Hunyuan Team (Core Contributor: **Zhenyang Liu**), Technical Report 2026
 
 [[Project Page]](https://3d.hunyuan.tencent.com/login?redirect_url=https%3A%2F%2F3d.hunyuan.tencent.com%2FsceneTo3D) [[GitHub]](https://github.com/Tencent-Hunyuan/HY-World-2.0) [[PDF]](https://3d-models.hunyuan.tencent.com/world/world2_0/HY_World_2_0.pdf)
 
